@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Exercise results and personal data
+squat_results.csv
+*.csv
+
+# Downloaded model (download separately)
+pose_landmarker_lite.task
+
+# macOS files
+.DS_Store
